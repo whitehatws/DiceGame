@@ -1,5 +1,6 @@
 # DiceGame
 
-Easy two player dice game where refreshing the page automatically creates new rolls for both players. A great way to settle any dispute or see who goes first!
+Easy two player dice game where refreshing the page automatically creates new rolls for both players. 
+A great way to settle any dispute or see who goes first!
 
-![Rock-Paper-Scissors][(https://github.com/whitehatws/DiceGame/blob/main/diceGameScreenshot.png)]
+![Rock-Paper-Scissors](https://github.com/whitehatws/DiceGame/blob/main/diceGameScreenshot.png)
